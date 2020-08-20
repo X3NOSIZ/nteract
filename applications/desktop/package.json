@@ -162,7 +162,7 @@
     "utility-types": "^3.10.0"
   },
   "resolutions": {
-    "**/node-abi": "2.18.0",
+    "**/node-abi": "2.19.0",
     "**/@nteract/mathjax": "4.0.10"
   }
 }
